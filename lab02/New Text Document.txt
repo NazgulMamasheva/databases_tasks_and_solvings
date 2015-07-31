@@ -1,0 +1,5 @@
+http://www.databasedesign.co.uk/bookdatabasesafirstcourse/chap3/chap3.htm
+
+https://www.draw.io/
+"Device" -> "Open existing diagram" -> lab01_erd.xml
+
